@@ -3,6 +3,14 @@
     <channel>
         <title>ETH Gas Alert</title>
         <item>
+            <title>1.2</title>
+            <pubDate>Mon, 28 Mar 2022 10:20:07 +0530</pubDate>
+            <sparkle:version>1.2</sparkle:version>
+            <sparkle:shortVersionString>1.2</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://firebasestorage.googleapis.com/v0/b/eth-gas-tracker.appspot.com/o/ETH%20Gas%20Alert.zip?alt=media&amp;token=d2c09643-7a6b-4927-990d-ab63cf90128f" length="2960957" type="application/octet-stream" sparkle:edSignature="rNBd7zaZdMF+UApyEp+3+B1D8BkIQiNCMUFJdkE7gKxx5x5g+o/HwFpHBk98nQ8jaTHFRSh9rDH192UkGtfzDw=="/>
+        </item>
+        <item>
             <title>1.1</title>
             <pubDate>Mon, 28 Mar 2022 10:20:07 +0530</pubDate>
             <sparkle:version>1.1</sparkle:version>
